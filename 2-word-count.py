@@ -20,6 +20,9 @@ with open("article.txt", "r") as f:
     words = f.read()
     word_stats(words, 10)
 
+# first issue
 # getting s as an output -- from contractions perhaps?
 # need to fix code here
 # so that contractions stay, spaces and punctuation don't go to the list
+
+# code fixed !!!!
